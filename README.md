@@ -268,7 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **MIT LIFT Lab** - Dr. Josué Velázquez Martínez
 - **FEMSA** - Competition sponsor
 - **INEGI** - DENUE open data
 - **INSP** - ENSANUT data
