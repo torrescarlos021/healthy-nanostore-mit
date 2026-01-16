@@ -1,0 +1,19 @@
+# Healthy Nanostore Project
+# MIT LiftLab National Competition 2025
+
+# Core
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Agent-Based Modeling (optional, for full simulation)
+mesa>=2.1.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Utilities
+tqdm>=4.65.0
